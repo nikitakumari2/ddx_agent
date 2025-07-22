@@ -1,0 +1,19 @@
+# Core AI Framework
+langchain
+openai
+
+# Vector Database
+chromadb
+
+# Web UI
+streamlit
+
+# Data Analysis & Processing
+pandas
+scikit-learn
+nltk
+
+# Data Visualization
+matplotlib
+seaborn
+wordcloud
