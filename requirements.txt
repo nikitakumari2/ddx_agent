@@ -1,6 +1,9 @@
 # Core AI Framework
 langchain
-openai
+langchain-community
+
+# Local Embeddings
+sentence-transformers
 
 # Vector Database
 chromadb
@@ -17,3 +20,5 @@ nltk
 matplotlib
 seaborn
 wordcloud
+plotly
+langchain-openai
