@@ -5,6 +5,9 @@ langchain-community
 # Local Embeddings
 sentence-transformers
 
+# File Loading Helper
+unstructured
+
 # Vector Database
 chromadb
 
